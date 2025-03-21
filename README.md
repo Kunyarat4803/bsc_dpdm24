@@ -22,7 +22,7 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
 - HW4:[code - Homework 4](Hw4.pdf)
   
  # Midterm 📝
- -Midterm[code - midterm](midterm_dpdm24.ipynb) หรือ[code - midterm]([midterm_dpdm24.ipynb](https://colab.research.google.com/drive/1AyBMRlIZQleA7P0HdsoxkUJiRB79X29i?usp=sharing)) 
+ -Midterm[code - midterm](midterm_dpdm24.ipynb) หรือ[colab_dpdm24.ipynb](https://colab.research.google.com/drive/1AyBMRlIZQleA7P0HdsoxkUJiRB79X29i?usp=sharing) 
  -Midterm[drive - midterm](https://drive.google.com/drive/folders/1ds1vCHd_afL83g4HVcOwSldr7yiZd7oJ?usp=sharing) 
  # Final 🧾
   -Final[code - Final](MLC_finalExam.ipynb) 
@@ -33,5 +33,5 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
  - Quiz13:[Files - Quiz13](Quiz13.pdf)
   # Projec 📑 
 - Projec:[code - Projec](Final_project.ipynb)
-- Projec:[Slide - Projec](project DM .pdf)
+- Projec:[Slide - Projec]([project DM .pdf](https://github.com/Kunyarat4803/bsc_dpdm24/blob/bb859c13df8af0e576697749750d5b1b75880772/project%20DM%20.pdf))
   
