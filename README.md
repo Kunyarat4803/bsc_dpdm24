@@ -15,23 +15,28 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
 
  
 # Homework 🏢
-- HW1:เติม พื้นที่บ้านเป็น ตรว. จาก พื้นที่ใช้สอยเป็น ตรม. เฉพาะข้อมูล คอนโด [code - Homework 1](Data_Preprocessing.ipynb)
-- HW2:[code - Homework 2](Chapter3_Data_Preprocessing.ipynb)
-- HW3:[code - Homework 3](HW3_Data_Reduced_Marketbasket.ipynb)
+ - HW1:เติม พื้นที่บ้านเป็น ตรว. จาก พื้นที่ใช้สอยเป็น ตรม. เฉพาะข้อมูล คอนโด [code - Homework 1](Data_Preprocessing.ipynb)
+ - HW2:[code - Homework 2](Chapter3_Data_Preprocessing.ipynb)
+ - HW3:[code - Homework 3](HW3_Data_Reduced_Marketbasket.ipynb)
      -[Slide - Homework 3](HW3.pdf)
-- HW4:[code - Homework 4](Hw4.pdf)
+ - HW4:[code - Homework 4](Hw4.pdf)
   
  # Midterm 📝
- -Midterm[code - midterm](midterm_dpdm24.ipynb) หรือ[colab_dpdm24.ipynb](https://colab.research.google.com/drive/1AyBMRlIZQleA7P0HdsoxkUJiRB79X29i?usp=sharing) 
- -Midterm[drive - midterm](https://drive.google.com/drive/folders/1ds1vCHd_afL83g4HVcOwSldr7yiZd7oJ?usp=sharing) 
+ -  Midterm[code - midterm](midterm_dpdm24.ipynb) หรือ[colab_dpdm24.ipynb](https://colab.research.google.com/drive/1AyBMRlIZQleA7P0HdsoxkUJiRB79X29i?usp=sharing) 
+ - Midterm[drive - midterm](https://drive.google.com/drive/folders/1ds1vCHd_afL83g4HVcOwSldr7yiZd7oJ?usp=sharing)
+   
  # Final 🧾
-  -Final[code - Final](MLC_finalExam.ipynb) 
+ - Final[code - Final](MLC_finalExam.ipynb)
+ - Final[drive - Final](https://drive.google.com/drive/folders/11FGaeB8bfOv8_as9fQZhfJopXKNBkSet?usp=sharing)
+
  # Quiz 📑
  - Quiz3:prin 'Acorname' และ 'ActionProcess' ของ action history แรก[code - Quiz3](Chapter_2_Understanding_Data.ipynb)
  - Quiz7:[Files - Quiz3](Quiz7.pdf)
  - Quiz12:[code - Quiz12](Chapter_5_Classification.ipynb)
  - Quiz13:[Files - Quiz13](Quiz13.pdf)
-  # Projec 📑 
-- Projec:[code - Projec](Final_project.ipynb)
-- Projec:[Slide - Projec]([project DM .pdf](https://github.com/Kunyarat4803/bsc_dpdm24/blob/bb859c13df8af0e576697749750d5b1b75880772/project%20DM%20.pdf))
+   
+  # Projec 📈 
+ - Projec:[code - Projec](Final_project.ipynb)
+ - Projec:[Slide - Projec]([project DM .pdf](https://github.com/Kunyarat4803/bsc_dpdm24/blob/bb859c13df8af0e576697749750d5b1b75880772/project%20DM%20.pdf))
+   
   
