@@ -15,28 +15,74 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
 
  
 # Homework 🏢
- - HW1:เติม พื้นที่บ้านเป็น ตรว. จาก พื้นที่ใช้สอยเป็น ตรม. เฉพาะข้อมูล คอนโด [code - Homework 1](Data_Preprocessing.ipynb)
+ - HW1: [code - Homework 1](Data_Preprocessing.ipynb)
  - HW2:[code - Homework 2](Chapter3_Data_Preprocessing.ipynb)
  - HW3:[code - Homework 3](HW3_Data_Reduced_Marketbasket.ipynb)
      -[Slide - Homework 3](HW3.pdf)
- - HW4:[code - Homework 4](Hw4.pdf)
+  กลุ่ม 7 
+ -กัลยรัตน์ อินทร์สำราญ 653020567-7
+ -ธนภรณ์ ดาษถนิม       653020570-8
+ -กนกณัฐ เครือเนตร     653020599-4
+   ![image](https://github.com/user-attachments/assets/146fd5bf-2e82-4b15-846b-5142a34c9256)
+- HW4:[code - Homework 4](Hw4.pdf)
   
- # Midterm 📝
+ # Midterm Exam 📝
  -  Midterm[code - midterm](midterm_dpdm24.ipynb) หรือ[colab_dpdm24.ipynb](https://colab.research.google.com/drive/1AyBMRlIZQleA7P0HdsoxkUJiRB79X29i?usp=sharing) 
  - Midterm[drive - midterm](https://drive.google.com/drive/folders/1ds1vCHd_afL83g4HVcOwSldr7yiZd7oJ?usp=sharing)
    
- # Final 🧾
+ # Final Exam 📑
  - Final[code - Final](MLC_finalExam.ipynb)
  - Final[drive - Final](https://drive.google.com/drive/folders/11FGaeB8bfOv8_as9fQZhfJopXKNBkSet?usp=sharing)
 
- # Quiz 📑
- - Quiz3:prin 'Acorname' และ 'ActionProcess' ของ action history แรก[code - Quiz3](Chapter_2_Understanding_Data.ipynb)
+ # Quiz 🏅
+ - Quiz3:[code - Quiz3](Chapter_2_Understanding_Data.ipynb)
  - Quiz7:[Files - Quiz3](Quiz7.pdf)
  - Quiz12:[code - Quiz12](Chapter_5_Classification.ipynb)
  - Quiz13:[Files - Quiz13](Quiz13.pdf)
    
-  # Projec 📈 
+  # Final Projec 🚀
+  กลุ่ม  Three “P” 
+ - 653020205-1 นางสาวณัชชา ประทุมชาติ 
+ - 653020206-9 นางสาวณัฎฐ์กฤตา ไชยโกฏิ 
+ - 653020567-7 นางสาวกัลยรัตน์ อินทร์สำราญ
+   ![image](https://github.com/user-attachments/assets/a7ea8468-49c3-4e0b-af68-d4591a2c8d77)
+
  - Projec:[code - Projec](Final_project.ipynb)
  - Projec:[Slide - Projec]([project DM .pdf](https://github.com/Kunyarat4803/bsc_dpdm24/blob/bb859c13df8af0e576697749750d5b1b75880772/project%20DM%20.pdf))
    
-  
+  # Chapter 1 - Introduction to Data Mining
+    | Content  | Path  |
+    |----------|------|
+    | Lecture  | [Click to go to LectureChapter1](.....) |
+  # Chapter 2 - Getting to Know Your Data
+  | Content  | Path  |
+  |----------|------|
+  | Lecture  | [Click to go to LectureChapter2](.....) |
+  | Code     | [Click to go to CodeChapter2](Chapter_2_Understanding_Data.ipynb) |
+
+  # Chapter 3 - Data Preprocessing
+  | Content  | Path  |
+  |----------|------|
+  | Lecture  | [Click to go to LectureChapter3](....) |
+  | Code     | [Click to go to CodeChapter3](Chapter3_Data_Preprocessing.ipynb) |
+  | PCA      | [Click to go to CodePCA](Chapter3_PCA_2024.ipynb) |
+ 
+  # Chapter 6 - Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
+   | Content  | Path  |
+   |----------|------|
+   | Lecture  | [Click to go to LectureChapter3](....) |
+   | Code     | [Click to go to CodeChapter3](of_Frequent_Patterns_(Association_Rules).ipynb) |
+ 
+  # Chapter 8 - Classification: Basic Concepts
+   | Content  | Path  |
+   |----------|------|
+   | Lecture  | [Click to go to LectureChapter8](....) |
+  # Chapter 9 - Classification: Advanced Methods
+   | Content  | Path  |
+   |----------|------|
+   | Lecture  | [Click to go to LectureChapter9](....) |
+  # Chapter 10 - Cluster Analysis: Basic Concepts and Methods
+   | Content  | Path  |
+   |----------|------|
+   | Lecture  | [Click to go to LectureChapter10](....) |
+   
