@@ -50,40 +50,40 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
  - Projec:[code - Projec](Final_project.ipynb)
  - Projec:[Slide - Projec]([project DM .pdf](https://github.com/Kunyarat4803/bsc_dpdm24/blob/bb859c13df8af0e576697749750d5b1b75880772/project%20DM%20.pdf))
    
-  # Chapter 1 - Introduction to Data Mining
+  # 📌Chapter 1 - Introduction to Data Mining
    | Content  | Path  |
    |----------|------|
    | Lecture  | [Click to go to Lecture Chapter 1](./01Intro%203.pdf) |
-  # Chapter 2 - Getting to Know Your Data
+  # 📌CChapter 2 - Getting to Know Your Data
   | Content  | Path  |
   |----------|------|
-  | Lecture  | [Click to go to LectureChapter2](02Data 2.pdf) |
+  | Lecture  | [Click to go to LectureChapter2](./02Data%202.pdf) |
   | Code     | [Click to go to CodeChapter2](Chapter_2_Understanding_Data.ipynb) |
 
-  # Chapter 3 - Data Preprocessing
+  # 📌CChapter 3 - Data Preprocessing
   | Content  | Path  |
   |----------|------|
-  | Lecture  | [Click to go to LectureChapter3]03Preprocessing 2.pdf) |
+  | Lecture  | [Click to go to LectureChapter3](./03Preprocessing%202.pdf) ) |
   | Code     | [Click to go to CodeChapter3](Chapter3_Data_Preprocessing.ipynb) |
   | PCA      | [Click to go to CodePCA](Chapter3_PCA_2024.ipynb) |
  
-  # Chapter 6 - Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
+  # 📌CChapter 6 - Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
    | Content  | Path  |
    |----------|------|
-   | Lecture  | [Click to go to LectureChapter3](06FPBasic 2.pdf) |
+   | Lecture  | [Click to go to LectureChapter3](./06FPBasic%202.pdf)  |
    | Code     | [Click to go to CodeChapter3](of_Frequent_Patterns_(Association_Rules).ipynb) |
  
-  # Chapter 8 - Classification: Basic Concepts
+  #📌C Chapter 8 - Classification: Basic Concepts
    | Content  | Path  |
    |----------|------|
-   | Lecture  | [Click to go to LectureChapter8](08ClassBasic 2.pdf) |
-  # Chapter 9 - Classification: Advanced Methods
+   | Lecture  | [Click to go to LectureChapter8](./08ClassBasic%202.pdf) |
+  # 📌CChapter 9 - Classification: Advanced Methods
    | Content  | Path  |
    |----------|------|
-   | Lecture  | [Click to go to LectureChapter9](09ClassAdvanced 2.pdf) |
-  # Chapter 10 - Cluster Analysis: Basic Concepts and Methods
+   | Lecture  | [Click to go to LectureChapter9](./09ClassAdvanced%202.pdf) |
+  # 📌CChapter 10 - Cluster Analysis: Basic Concepts and Methods
    | Content  | Path  |
    |----------|------|
-   | Lecture  | [Click to go to LectureChapter10](10ClusBasic 2.pdf) |
-   | Lecture  | [Click to go to Lecturai1.0.2-2](ai1.0.2-2 2.pdf) |
+   | Lecture  | [Click to go to LectureChapter10](./10ClusBasic%202.pdf)  |
+   | Lecture  | [Click to go to Lecturai1.0.2-2](./ai1.0.2-2%202.pdf) |
    
