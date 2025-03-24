@@ -17,15 +17,16 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
 # Homework 🏢
  - HW1: [code - Homework 1](Data_Preprocessing.ipynb)
  - HW2:[code - Homework 2](Chapter3_Data_Preprocessing.ipynb)
- - HW3:[code - Homework 3](HW3_Data_Reduced_Marketbasket.ipynb)
-     -[Slide - Homework 3](HW3.pdf)
+ - HW3: | code  | [Click to go to Homework 3](HW3_Data_Reduced_Marketbasket.ipynb) |
+   |Slide   | [Click to go to Homework 3](HW3.pdf) |
+   - HW4:[code - Homework 4](Hw4.pdf)
   ## สมาชิก
 
  - **กัลยรัตน์ อินทร์สำราญ 653020567-7**  
  - **ธนภรณ์ ดาษถนิม    653020570-8**
  - **กนกณัฐ เครือเนตร  653020599-4**
    ![image](https://github.com/user-attachments/assets/146fd5bf-2e82-4b15-846b-5142a34c9256)
-- HW4:[code - Homework 4](Hw4.pdf)
+
   
  # Midterm Exam 📝
  -  Midterm[code - midterm](midterm_dpdm24.ipynb) หรือ[colab_dpdm24.ipynb](https://colab.research.google.com/drive/1AyBMRlIZQleA7P0HdsoxkUJiRB79X29i?usp=sharing) 
@@ -54,36 +55,37 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
   # Chapter 1 - Introduction to Data Mining
    | Content  | Path  |
    |----------|------|
-   | Lecture  | [Click to go to LectureChapter1](.....) |
+   | Lecture  | [Click to go to LectureChapter1](01Intro 3.pdf) |
   # Chapter 2 - Getting to Know Your Data
   | Content  | Path  |
   |----------|------|
-  | Lecture  | [Click to go to LectureChapter2](.....) |
+  | Lecture  | [Click to go to LectureChapter2](02Data 2.pdf) |
   | Code     | [Click to go to CodeChapter2](Chapter_2_Understanding_Data.ipynb) |
 
   # Chapter 3 - Data Preprocessing
   | Content  | Path  |
   |----------|------|
-  | Lecture  | [Click to go to LectureChapter3](....) |
+  | Lecture  | [Click to go to LectureChapter3]03Preprocessing 2.pdf) |
   | Code     | [Click to go to CodeChapter3](Chapter3_Data_Preprocessing.ipynb) |
   | PCA      | [Click to go to CodePCA](Chapter3_PCA_2024.ipynb) |
  
   # Chapter 6 - Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
    | Content  | Path  |
    |----------|------|
-   | Lecture  | [Click to go to LectureChapter3](....) |
+   | Lecture  | [Click to go to LectureChapter3](06FPBasic 2.pdf) |
    | Code     | [Click to go to CodeChapter3](of_Frequent_Patterns_(Association_Rules).ipynb) |
  
   # Chapter 8 - Classification: Basic Concepts
    | Content  | Path  |
    |----------|------|
-   | Lecture  | [Click to go to LectureChapter8](....) |
+   | Lecture  | [Click to go to LectureChapter8](08ClassBasic 2.pdf) |
   # Chapter 9 - Classification: Advanced Methods
    | Content  | Path  |
    |----------|------|
-   | Lecture  | [Click to go to LectureChapter9](....) |
+   | Lecture  | [Click to go to LectureChapter9](09ClassAdvanced 2.pdf) |
   # Chapter 10 - Cluster Analysis: Basic Concepts and Methods
    | Content  | Path  |
    |----------|------|
-   | Lecture  | [Click to go to LectureChapter10](....) |
+   | Lecture  | [Click to go to LectureChapter10](10ClusBasic 2.pdf) |
+   | Lecture  | [Click to go to Lecturai1.0.2-2](ai1.0.2-2 2.pdf) |
    
