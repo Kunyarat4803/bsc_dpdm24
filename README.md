@@ -87,4 +87,4 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
    | Lecture  | [Click to go to LectureChapter10](./10ClusBasic%202.pdf)  |
    | Lecture  | [Click to go to Lecturai1.0.2-2](./ai1.0.2-2%202.pdf) |
    # DriveBSC2024 📩
- - Drive: [Drive - BSC2024]([Data_Preprocessing.ipynb](https://drive.google.com/drive/folders/1eZbLaB9qe_G5Kj1SCVY9RqozrRbwcLbU?usp=sharing))
+ - Drive: [Drive - BSC2024]([Data_Preprocessing.ipynb](https://drive.google.com/drive/folders/1eZbLaB9qe_G5Kj1SCVY9RqozrRbwcLbU?usp=sharing)
