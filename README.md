@@ -54,34 +54,34 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
    | Content  | Path  |
    |----------|------|
    | Lecture  | [Click to go to Lecture Chapter 1](./01Intro%203.pdf) |
-  # 📌CChapter 2 - Getting to Know Your Data
+  # 📌Chapter 2 - Getting to Know Your Data
   | Content  | Path  |
   |----------|------|
   | Lecture  | [Click to go to LectureChapter2](./02Data%202.pdf) |
   | Code     | [Click to go to CodeChapter2](Chapter_2_Understanding_Data.ipynb) |
 
-  # 📌CChapter 3 - Data Preprocessing
+  # 📌Chapter 3 - Data Preprocessing
   | Content  | Path  |
   |----------|------|
   | Lecture  | [Click to go to LectureChapter3](./03Preprocessing%202.pdf) ) |
   | Code     | [Click to go to CodeChapter3](Chapter3_Data_Preprocessing.ipynb) |
   | PCA      | [Click to go to CodePCA](Chapter3_PCA_2024.ipynb) |
  
-  # 📌CChapter 6 - Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
+  # 📌Chapter 6 - Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
    | Content  | Path  |
    |----------|------|
    | Lecture  | [Click to go to LectureChapter3](./06FPBasic%202.pdf)  |
    | Code     | [Click to go to CodeChapter3](of_Frequent_Patterns_(Association_Rules).ipynb) |
  
-  #📌C Chapter 8 - Classification: Basic Concepts
+   # 📌Chapter 8 - Classification: Basic Concepts
    | Content  | Path  |
    |----------|------|
    | Lecture  | [Click to go to LectureChapter8](./08ClassBasic%202.pdf) |
-  # 📌CChapter 9 - Classification: Advanced Methods
+  # 📌Chapter 9 - Classification: Advanced Methods
    | Content  | Path  |
    |----------|------|
    | Lecture  | [Click to go to LectureChapter9](./09ClassAdvanced%202.pdf) |
-  # 📌CChapter 10 - Cluster Analysis: Basic Concepts and Methods
+  # 📌Chapter 10 - Cluster Analysis: Basic Concepts and Methods
    | Content  | Path  |
    |----------|------|
    | Lecture  | [Click to go to LectureChapter10](./10ClusBasic%202.pdf)  |
