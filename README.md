@@ -17,9 +17,11 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
 # Homework 🏢
  - HW1: [code - Homework 1](Data_Preprocessing.ipynb)
  - HW2:[code - Homework 2](Chapter3_Data_Preprocessing.ipynb)
- - HW3: | code  | [Click to go to Homework 3](HW3_Data_Reduced_Marketbasket.ipynb) |
-   |Slide   | [Click to go to Homework 3](HW3.pdf) |
-   - HW4:[code - Homework 4](Hw4.pdf)
+ - HW3:
+  |----------|------|
+  | code  | [Click to go to Homework 3](HW3_Data_Reduced_Marketbasket.ipynb) |
+  |Slide   | [Click to go to Homework 3](HW3.pdf) |
+ - HW4:[code - Homework 4](Hw4.pdf)
   ## สมาชิก
 
  - **กัลยรัตน์ อินทร์สำราญ 653020567-7**  
