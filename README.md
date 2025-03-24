@@ -53,7 +53,7 @@ GitHub|ความสวยงามและถูกต้อง| 5%|
   # Chapter 1 - Introduction to Data Mining
    | Content  | Path  |
    |----------|------|
-   | Lecture  | [Click to go to Lecture Chapter 1](01Intro 3.pdf) |
+   | Lecture  | [Click to go to Lecture Chapter 1](./01Intro%203.pdf) |
   # Chapter 2 - Getting to Know Your Data
   | Content  | Path  |
   |----------|------|
